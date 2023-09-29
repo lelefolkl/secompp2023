@@ -1,0 +1,4 @@
+nome: kelly
+idade: 18
+cidade: pp
+comida favorita: batata
