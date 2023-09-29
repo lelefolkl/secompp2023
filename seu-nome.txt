@@ -1,4 +1,4 @@
-nome:
-idade:
-cidade:
-comida favorita:
+nome: fabi
+idade: 25
+cidade: pdd
+comida favorita: strogo
