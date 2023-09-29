@@ -1,0 +1,5 @@
+nome: Gustavo Quilante (OSASCO)
+idade: 24
+cidade: OSASCO
+comida favorita: Pombo Frito
+
