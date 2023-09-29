@@ -1,0 +1,4 @@
+nome: Alexandre Folkl
+idade: 24
+cidade: Cotia
+comida favorita: Lasanha
